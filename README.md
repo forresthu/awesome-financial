@@ -7,6 +7,7 @@
 
 - [Investment.com](http://www.investing.com/)
 - [The Street](http://www.thestreet.com/)
+- [Seeking Alpha](http://seekingalpha.com/)
 
 ##Associations
 - [World Federation of Exchanges](http://www.world-exchanges.org/) 
