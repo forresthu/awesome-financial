@@ -14,3 +14,5 @@
 ### Associations
 - [World Federation of Exchanges](http://www.world-exchanges.org/) 
 - [International Swaps and Derivatives Association](http://www.isda.org/)
+- [Bank for International Settlements](www.bis.org)
+- [Toronto Financial Services Alliance](www.tfsa.ca)
